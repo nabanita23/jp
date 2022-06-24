@@ -1,3 +1,9 @@
+Show in the dropdown:
+longName (accountingPlatformId | eciId | gwmidentifier | spnId)
+partyName instead of longName
+partyName (eciID | spn | gwmidentifier)
+if partyName not present then show accountingPlatformId
+
 Fetch client infor :
 https://mws.test.gaiacloud.jpmchase.net/irrest/fetchClientAccountInfo
 --------------------------------------------------------------------------------------
